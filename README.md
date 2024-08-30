@@ -1,7 +1,3 @@
-Aqui está um README breve para o fluxo otimizado do sistema bancário:
-
----
-
 # Sistema Bancário Otimizado
 
 Este projeto é uma versão aprimorada de um sistema bancário simples, implementado em Python. Ele permite ao usuário realizar diversas operações bancárias, incluindo depósito, saque, consulta de extrato, e gerenciamento de usuários e contas correntes. O sistema foi otimizado com o uso de funções Python para facilitar a manutenção e a escalabilidade do código.
